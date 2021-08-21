@@ -20,7 +20,9 @@ Sou um cara muito na minha, pra falar a verdade sou bem tímido, mais confiante 
 Vou listar aqui em baixo 3 animes que gosto bastante:
 
  • Naruto
+
  • Sword art online
+
  • Shokugeki no Soma
 
 1. Numbered
