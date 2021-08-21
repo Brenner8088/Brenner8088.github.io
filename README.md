@@ -18,7 +18,8 @@ Gosto bastante de games e assistir séries ou animes, típico de qualquer jovem 
 Sou um cara muito na minha, pra falar a verdade sou bem tímido, mais confiante e sempre disposto a aprender coisas novas.
 
 Vou listar aqui em baixo 3 animes que gosto bastante:
-# Naruto
+
+##0000ff Naruto
 ## Sword art online
 ### Shokugeki no Soma
 
