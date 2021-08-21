@@ -26,10 +26,4 @@ Vou listar aqui em baixo 3 animes que gosto bastante:
  • Shokugeki no Soma
 
 
-## Links de umas imagens dos 3 animes:
 
-https://images.app.goo.gl/LvZgacXE1VVtBe3j8
-
-https://images.app.goo.gl/BUBsf6LArBKcc5RD9
-
-https://images.app.goo.gl/ko5m5cAYvwumsxC2A
