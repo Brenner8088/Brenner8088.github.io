@@ -17,11 +17,11 @@ Bom como você viu acima me chamo Breno e sou aluno do curso de informática da 
 Gosto bastante de games e assistir séries ou animes, típico de qualquer jovem Kkkkk. Curto vários estilos musicais, principalmente: Eletrônica, rap e forró. 
 Sou um cara muito na minha, pra falar a verdade sou bem tímido, mais confiante e sempre disposto a aprender coisas novas.
 
-<b>Vou listar aqui em baixo 3 animes que gosto bastante:
+Vou listar aqui em baixo 3 animes que gosto bastante:
 
-# Naruto
-## Sword art online
-### Shokugeki no Soma
+ • Naruto
+ • Sword art online
+ • Shokugeki no Soma
 
 1. Numbered
 2. List
