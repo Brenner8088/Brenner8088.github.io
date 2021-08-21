@@ -25,12 +25,15 @@ Vou listar aqui em baixo 3 animes que gosto bastante:
 
  • Shokugeki no Soma
 
+![https://images.app.goo.gl/8AHuGE1xkbR4S7y39](http://full/path/to/img.jpg "Optional title")
+
+
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[https://images.app.goo.gl/8AHuGE1xkbR4S7y39](url) and ![Image](src)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
